@@ -1,0 +1,27 @@
+{
+  "name": "object-assign-sorted",
+  "version": "0.0.0",
+  "description": "Object.assign with sorted keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thejameskyle/object-assign-sorted"
+  },
+  "keywords": [
+    "object.assign",
+    "sorted"
+  ],
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/object-assign-sorted/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/object-assign-sorted",
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "sorted-object": "^2.0.0"
+  }
+}
