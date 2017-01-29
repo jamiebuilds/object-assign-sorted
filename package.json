@@ -1,6 +1,6 @@
 {
   "name": "object-assign-sorted",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Object.assign with sorted keys",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
     "sorted-object": "^2.0.0"
   },
   "engines": {
-    "node":  ">=4.0.0"
+    "node": ">=4.0.0"
   }
 }
