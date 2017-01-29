@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/thejameskyle/object-assign-sorted",
   "dependencies": {
-    "object-assign": "^4.0.1",
     "sorted-object": "^2.0.0"
+  },
+  "engines": {
+    "node":  ">=4.0.0"
   }
 }
